@@ -6,13 +6,13 @@
 
 
 * Lógica de programação essencial;
-    - [ ] Concluído
+    - [x] Concluído
     - [ ] Não Concluído
 * Pensamento Computacional;
-    - [ ] Concluído
+    - [x] Concluído
     - [ ] Não Concluído
 * Introdução ao Git e GitHub;
-    - [ ] Concluído
+    - [x] Concluído
     - [ ] Não Concluído
 * Introdução a criação de websites com HTML5 e CSS3;
     - [ ] Concluído
@@ -90,7 +90,7 @@
     - [ ] Concluído
     - [ ] Não Concluído
 * Dominando IDEs Java;
-    - [ ] Concluído
+    - [x] Concluído
     - [ ] Não Concluído
 * Introdução ao ecossistema e  documentação Java;
     - [ ] Concluído
